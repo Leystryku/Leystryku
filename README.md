@@ -14,7 +14,7 @@
 
 ### Programming Languages
 
-I am a polyglot software engineer. A list of programming languages I have used or am using frequently, as well as first contact. I try to interact with IT or software engineering daily. Some of my work is on GitHub.
+I am a polyglot software engineer. A list of programming languages I used previously, as well as first contact. I try to interact with IT or software engineering daily. Some of my work is on GitHub.
 
 ##### frequently using or used at some point
 - Lua (age: 12)
@@ -32,3 +32,4 @@ I am a polyglot software engineer. A list of programming languages I have used o
 - PHP (age: 15)
 - HTML (age: 15)
 - CSS (age: 15)
+- AutoIt (age: 11)
