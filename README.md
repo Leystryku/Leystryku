@@ -8,7 +8,7 @@
 ## About Me
 
 - 📊 Self-taught Software Engineer since the age of 11.
-- ⚡️ Degree in Computer Science (BSc Inf.)
+- ⚡️ Degree in Computer Science (B.Sc. CompSci)
 - 👨‍💻 Really enjoy reverse engineering stuff, finding exploits, tinkering with embedded systems, and other IT related fun things
 - 🕺 I love dancing
 
