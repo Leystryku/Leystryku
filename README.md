@@ -23,7 +23,7 @@ I am a polyglot software engineer. A list of programming languages I used previo
 - C# (age: 16)
 - Java (age: 20)
 - Racket (age: 22)
-- Flutter (age: 23)
+- Flutter/Dart (age: 23)
 - ASM (age: 15) (focus on IA-32/x86, Atmel AVR Instruction Set - ATMega etc)
 - SQL (age: 15) (MySQL, MsSQL)
 ##### never used frequently or dislike
