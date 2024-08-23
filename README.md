@@ -7,29 +7,18 @@
 
 ## About Me
 
-- 📊 Self-taught Software Engineer since the age of 11.
-- ⚡️ Degree in Computer Science (B.Sc. CompSci)
-- 👨‍💻 Really enjoy reverse engineering stuff, finding exploits, tinkering with embedded systems, and other IT related fun things
-- 🕺 I love dancing
+- ⚡️ Degree in Computer Science
+- 📊 I have been programming for over a decade
+- 💻 Started getting into computers at the age of 4
+- 👨‍💻 I enjoy developing software, reverse engineering binaries & processes, security research, tinkering with embedded systems and more IT related fun things e.g. [some security research involving Steam](https://www.reddit.com/r/Steam/s/8zY20thn2f)
 
 ### Programming Languages
 
-I am a polyglot software engineer. A list of programming languages I used previously, as well as first contact. I try to interact with IT or software engineering daily. Some of my work is on GitHub.
+I am a polyglot software engineer. A list of some programming languages I used. On GitHub you can mostly find some of my older work.
 
-##### frequently using or used at some point
-- Lua (age: 12)
-- C++ (age: 15)
-- C (age: 15)
-- C# (age: 16)
-- Java (age: 20)
-- Racket (age: 22)
-- Flutter/Dart (age: 23)
-- ASM (age: 15) (focus on IA-32/x86, Atmel AVR Instruction Set - ATMega etc)
-- SQL (age: 15) (MySQL, MsSQL)
-##### never used frequently or dislike
-- VB (age: 23)
-- Javascript (age: 15)
-- PHP (age: 15)
-- HTML (age: 15)
-- CSS (age: 15)
-- AutoIt (age: 11)
+##### frequently used at some point
+Lua, C++, C, C#, Java, Racket, Flutter/Dart, ASM (focus on IA-32/x86, Atmel AVR Instruction Set - ATMega etc), SQL (MySQL, MsSQL)
+
+
+##### used less frequently or dislike
+VB, Javascript, PHP, HTML, CSS, AutoIt
