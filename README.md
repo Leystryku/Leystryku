@@ -2,7 +2,7 @@
   Hi there! 👋
 </h1>
 <h3 align="center">
-  💻 Development & Exploit Research | 🌴 Germany
+  💻 Software Development & More | 🌴 Germany
 </h3>
 
 ## About Me
@@ -10,7 +10,7 @@
 - ⚡️ Degree in Computer Science
 - 📊 I have been programming for over a decade
 - 💻 Started getting into computers at the age of 4
-- 👨‍💻 I enjoy developing software, reverse engineering binaries & processes, security research, tinkering with embedded systems and more IT related fun things e.g. [some security research involving Steam](https://www.reddit.com/r/Steam/s/8zY20thn2f)
+- 👨‍💻 I enjoy developing software, reverse engineering binaries & processes, security research, tinkering with embedded systems and more IT related fun things e.g. [some security research involving the huge platform Steam](https://www.reddit.com/r/Steam/s/8zY20thn2f)
 
 ### Programming Languages
 
