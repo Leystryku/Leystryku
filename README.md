@@ -14,11 +14,11 @@
 
 ### Programming Languages
 
-I am a polyglot software engineer. A list of some programming languages I used. On GitHub you can mostly find some of my older work.
+I am a polyglot software engineer. On GitHub you can mostly find some of my older work.
 
-##### frequently used at some point
+##### frequented languages at some point
 Lua, C++, C, C#, Java, Racket, Flutter/Dart, ASM (focus on IA-32/x86, Atmel AVR Instruction Set - ATMega etc), SQL (MySQL, MsSQL)
 
 
-##### used less frequently or dislike
+##### less frequented or dislike
 VB, Javascript, PHP, HTML, CSS, AutoIt
