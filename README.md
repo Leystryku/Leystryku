@@ -7,7 +7,7 @@
 
 ## About Me
 
-- ⚡️ Masters in CompSci
+- ⚡️ Bachelors in CompSci
 - 👨‍💻 Been programming for over a decade
 - 💻 First PC at the age 4
 - 📊 My interests extend further into other areas as well. Including Reverse Engineering, Security Research, Embedded Systems, [and more](https://www.reddit.com/r/Steam/s/8zY20thn2f)
